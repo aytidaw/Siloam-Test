@@ -8,7 +8,7 @@
 import Foundation
 
 struct Constants {
-    static let IS_DEBUG = true
+    static let IS_DEBUG = false
     static let BASE_URL = "http://www.themealdb.com/api/json/v1/1/"
     
     enum ConstantText: String {
