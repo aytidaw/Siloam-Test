@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.7.1)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+  - SkyFloatingLabelTextField (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - NVActivityIndicatorView
+  - SDWebImage
+  - SkyFloatingLabelTextField
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - NVActivityIndicatorView
+    - SDWebImage
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+  SkyFloatingLabelTextField: 79ddc40e4ad59707fedbb48d605417aee48bb78a
+
+PODFILE CHECKSUM: 6e1f192a413f712be9f3628d0e45fda78ded4bac
+
+COCOAPODS: 1.12.1

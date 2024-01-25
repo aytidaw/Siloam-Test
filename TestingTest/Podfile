@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+
+platform :ios, '12.0'
+
+use_frameworks!
+def shared_pods
+    pod 'Alamofire'
+    pod 'SDWebImage'
+    pod 'NVActivityIndicatorView'
+    pod 'SkyFloatingLabelTextField'
+end
+
+target 'TestingTest' do
+    shared_pods
+end
+

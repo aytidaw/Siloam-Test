@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6CF5077F-8812-4265-87F4-657F8017BB4F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ABA23D6-89C7-4D9E-87C0-DBA9378F2FB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Views/ViewController/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "zooming(started:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2ABA23D6-89C7-4D9E-87C0-DBA9378F2FB0 - 9abab74aac8e2b9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingTest.SearchViewController.zooming(started: Swift.Bool) -&gt; ()"
+                  moduleName = "TestingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aditya/Documents/SiloamTest/TestingTest/Views/ViewController/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "2ABA23D6-89C7-4D9E-87C0-DBA9378F2FB0 - 9abab74aac8e2b9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestingTest.SearchViewController.zooming(started: Swift.Bool) -&gt; ()"
+                  moduleName = "TestingTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aditya/Documents/SiloamTest/TestingTest/Views/ViewController/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
